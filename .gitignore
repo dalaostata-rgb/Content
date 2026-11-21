@@ -1,0 +1,34 @@
+# Raw media — not stored in this repo
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mkv
+*.webm
+*.mxf
+*.braw
+*.r3d
+*.wav
+*.mp3
+*.aac
+*.m4a
+*.flac
+*.aif
+*.aiff
+*.prproj.bak
+renders/
+exports/
+footage/
+media/
+raw/
+proxies/
+cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
